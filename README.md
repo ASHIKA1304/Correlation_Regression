@@ -1,10 +1,10 @@
-# EXP-3
+# EXP-3   Correlation and regression for data analysis
+
 # 15-5-26
 
 # Name : ASHIKA TR
 # REG : 212224220011
 
-# Correlation and regression for data analysis
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
